@@ -30,8 +30,8 @@ echo "2.  FB-Cracker              " | lolcat
 echo "3.  ShellPhisher            " | lolcat
 echo "4.  Sqlmap Termux only      " | lolcat
 echo "5.  Locator                 " | lolcat
-echo "6.  Goldeneye Termux only   " | lolcat
-echo "7.  Goldeneye Linux Only    " | lolcat
+echo "6.  Destroy Termux only   " | lolcat
+echo "7.  Destroy Linux Only    " | lolcat
 echo "8.  Install Metasploit Termux"| lolcat
 echo "9.  Social Engineering Termux"| lolcat
 echo "10. E-mail Bomber For Termux "| lolcat
